@@ -1,7 +1,7 @@
 {
   "name": "save_ur_credentials",
   "version": "1.0.0",
-  "description": "",
+  "description": "I was doing some freelance and my guy was sharing all the credentials over chat. So I end up create a collection for myself",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
